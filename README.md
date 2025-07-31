@@ -1,7 +1,3 @@
-# 💫 Who Am I?
-+ 𝙸𝙳𝙴𝙽𝚃𝙸𝚃𝚈 𝚅𝙴𝚁𝙸𝙵𝙸𝙴𝙳: 𝟾𝟶𝟷_𝙾𝙿𝚂𝙴𝙲<br>- 𝙰𝙶𝙴𝙽𝚃 𝙲𝙾𝙳𝙴: NL-CA-581
-
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devlogsone@proton.me) 
 
